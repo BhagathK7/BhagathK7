@@ -1,103 +1,65 @@
-<!-- =============================== -->
-<!--   Bhagath Krishna — Profile     -->
-<!--     Minimal • White • Clean     -->
-<!-- =============================== -->
+<!-- Bhagath Krishna • GitHub Profile README -->
 
 <div align="center">
-
-<!-- Animated Cloud Header -->
-<img src="https://raw.githubusercontent.com/BhagathK7/cloud-assets/main/cloud-header.gif" width="100%" alt="cloud header"/>
 
 # 👋 Hey, I’m **Bhagath Krishna**  
-### *Frontend-focused Full Stack Developer*
-
-</div>
-
-<br/>
-
-<div align="center">
-
-I design clean, modern, aesthetic front-ends and build full-stack applications  
-with a passion for smooth user experiences & minimal UI.
+### Frontend-focused Full-Stack Developer
 
 </div>
 
 ---
 
-<br/>
+## 🌐 About Me
 
-## 🌤️ **Tech Stack**
+I build clean, modern, minimalist frontends, and enjoy crafting smooth UI/UX.  
+I code full-stack when needed, but my heart’s in frontend design and user-friendly interfaces.
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-
-<!-- ICON STYLE: Soft, minimal, neutral -->
-<img src="https://cdn.simpleicons.org/html5/4B5563" width="40" /> &nbsp;
-<img src="https://cdn.simpleicons.org/css3/4B5563" width="40" /> &nbsp;
-<img src="https://cdn.simpleicons.org/javascript/4B5563" width="40" /> &nbsp;
-<img src="https://cdn.simpleicons.org/react/4B5563" width="40" /> &nbsp;
-<img src="https://cdn.simpleicons.org/node.js/4B5563" width="40" /> &nbsp;
-<img src="https://cdn.simpleicons.org/express/4B5563" width="40" /> &nbsp;
-<img src="https://cdn.simpleicons.org/mongodb/4B5563" width="40" /> &nbsp;
-<img src="https://cdn.simpleicons.org/git/4B5563" width="40" /> &nbsp;
-<img src="https://cdn.simpleicons.org/python/4B5563" width="40" /> &nbsp;
-<img src="https://cdn.simpleicons.org/java/4B5563" width="40" /> &nbsp;
-<img src="https://cdn.simpleicons.org/c/4B5563" width="40" />
-
+  <img src="https://cdn.simpleicons.org/html5/4B5563" alt="HTML5" width="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/css3/4B5563" alt="CSS3" width="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/4B5563" alt="JavaScript" width="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/react/4B5563" alt="React" width="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/node.js/4B5563" alt="Node.js" width="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/express/4B5563" alt="Express.js" width="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/4B5563" alt="MongoDB" width="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/git/4B5563" alt="Git" width="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/python/4B5563" alt="Python" width="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/java/4B5563" alt="Java" width="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/c/4B5563" alt="C" width="36" />
 </div>
 
 ---
 
-<br/>
+## 📊 GitHub Stats
 
-## 📊 **My GitHub Stats**
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhagathK7&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 
-<!-- CLEAN WHITE THEME STATS -->
-<img height="170" src="https://streak-stats.demolab.com?user=BhagathK7&theme=default&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BhagathK7&show_icons=true&hide_title=true&hide_border=true&theme=default" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagathK7&layout=compact&hide_border=true&theme=default" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagathK7&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-<br/>
+## 💡 What I Work On
 
-## ☁️ **What I Love Working On**
-- Clean, aesthetic frontend interfaces  
-- Smooth UI/UX experiences  
-- React + modern JS  
-- Full-stack projects (MERN)  
-- Bringing design + code together  
+- Crafting responsive, clean front-end interfaces with React & modern JS.  
+- Building full-stack applications using Node.js, Express, MongoDB as needed.  
+- Merging design sensibilities with code to deliver smooth UX.
 
 ---
 
-<br/>
+## 📫 Connect with Me
 
-## 🌱 **Current Goals**
-- Strengthening frontend animations & micro-interactions  
-- Building more refined, production-ready UI  
-- Expanding full-stack capabilities  
+<div align="center">
+  <a href="https://github.com/BhagathK7" title="GitHub"><img src="https://cdn.simpleicons.org/github/4B5563" alt="GitHub" width="32" /></a>&nbsp;
+  <a href="#" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/4B5563" alt="LinkedIn" width="32" /></a>&nbsp;
+  <a href="mailto:your.email@example.com" title="Email"><img src="https://cdn.simpleicons.org/mail/4B5563" alt="Email" width="32" /></a>
+</div>
 
 ---
 
-<br/>
-
-## 📫 **Connect with Me**
-<div align="center">
-
-<a href="https://github.com/BhagathK7"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
-&nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
-&nbsp;&nbsp;
-<a href="mailto:bhagathkrishnps@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-  
-✨ *Designed to be simple, soft, cloud-like, and distraction-free.*  
-</div>
+> *Designed to stay minimal & clean — focused on code, design and clarity.*  
