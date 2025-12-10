@@ -1,0 +1,27 @@
+<svg width="100%" height="140" viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background (optional, remove if not needed) -->
+  <rect width="100%" height="100%" fill="#0d1117" rx="16" />
+
+  <!-- Fade-in animation group -->
+  <g opacity="0">
+    <animate attributeName="opacity"
+             from="0" to="1"
+             dur="1.6s"
+             fill="freeze"
+             begin="0.2s" />
+
+    <!-- Your content goes here -->
+    <text x="50%" y="50%"
+          text-anchor="middle"
+          fill="white"
+          font-size="34"
+          font-family="Fira Code, monospace"
+          font-weight="700"
+          dominant-baseline="middle">
+      Your SVG Content Here
+    </text>
+
+  </g>
+
+</svg>
