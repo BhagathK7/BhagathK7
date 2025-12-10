@@ -48,10 +48,16 @@
 </p>
 
 ## GitHub activity
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/BhagathK7?cardType=github&theme=city-lights&font=Inter&showTotalStars=false&showPRs=false&showIssues=false&preferLogin=false" height="170" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhagathK7&theme=default" height="170" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/BhagathK7?cardType=github&theme=city-lights&font=Inter&showTotalStars=false&showPRs=false&showIssues=false&preferLogin=false" 
+       width="48%" height="170" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhagathK7&theme=default" 
+       width="48%" height="300" />
+
+</div>
+
+
 
 </div>
 
@@ -61,7 +67,7 @@
 
 
 
-## Selected notes
+## Notes
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&pause=1200&width=700&lines=Design+is+not+decoration+—+it+makes+products+usable.;Small%2C+consistent+UI+improvements+lead+to+better+experiences.;Interfaces+should+be+intentional%2C+accessible+and+fast." />
@@ -71,7 +77,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
-
+<br>
 
 <div align="center" style="margin-top:16px;">
 
