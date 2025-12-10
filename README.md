@@ -1,62 +1,103 @@
-<!--
-  README for BhagathK7 — Minimal + iconified profile with stats, blog, medium, quotes.
-  Replace placeholders if you want; everything already uses your username: BhagathK7
--->
+<!-- =============================== -->
+<!--   Bhagath Krishna — Profile     -->
+<!--     Minimal • White • Clean     -->
+<!-- =============================== -->
 
-<!-- ===== Header (optional image / REHeader output) ===== -->
-<!-- You can paste REHeader-generated HTML/SVG or an image here.
-     For now we keep it minimal — name + role. -->
-<h1 align="left">Hello, I'm Bhagath Krishna</h1>
-<p align="left"><strong>Frontend-focused full-stack developer who loves designing and crafting smooth user experiences.</strong></p>
+<div align="center">
 
-<!-- ===== Icons / Quick Info ===== -->
-<p align="left">
-  <img alt="C" src="https://cdn.simpleicons.org/c/333" width="22" height="22"> &nbsp;
-  <img alt="Java" src="https://cdn.simpleicons.org/java/333" width="22" height="22"> &nbsp;
-  <img alt="Python" src="https://cdn.simpleicons.org/python/333" width="22" height="22"> &nbsp;
-  <img alt="React" src="https://cdn.simpleicons.org/react/333" width="22" height="22"> &nbsp;
-  <img alt="Node.js" src="https://cdn.simpleicons.org/node.js/333" width="22" height="22"> &nbsp;
-  <img alt="JavaScript" src="https://cdn.simpleicons.org/javascript/333" width="22" height="22"> &nbsp;
-  <img alt="HTML5" src="https://cdn.simpleicons.org/html5/333" width="22" height="22"> &nbsp;
-  <img alt="CSS3" src="https://cdn.simpleicons.org/css3/333" width="22" height="22"> &nbsp;
-  <img alt="Bootstrap" src="https://cdn.simpleicons.org/bootstrap/333" width="22" height="22"> &nbsp;
-  <img alt="MongoDB" src="https://cdn.simpleicons.org/mongodb/333" width="22" height="22"> &nbsp;
-  <img alt="Git" src="https://cdn.simpleicons.org/git/333" width="22" height="22">
-</p>
+<!-- Animated Cloud Header -->
+<img src="https://raw.githubusercontent.com/BhagathK7/cloud-assets/main/cloud-header.gif" width="100%" alt="cloud header"/>
 
-<!-- ===== Badges / Stats ===== -->
-<p align="left">
-  <!-- GitHub readme stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BhagathK7&show_icons=true&theme=tokyonight&hide_border=true" alt="BhagathK7 GitHub stats" />
+# 👋 Hey, I’m **Bhagath Krishna**  
+### *Frontend-focused Full Stack Developer*
 
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagathK7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+</div>
 
-<!-- ===== Projects / Focus ===== -->
-## 🔭 Current Focus
-- Designing and building modern, responsive frontends with React and clean UI.
-- Building full-stack apps using Node.js, Express and MongoDB when needed.
+<br/>
 
-## 🛠️ Tools & Tech
-`React` · `JavaScript` · `Node.js` · `Express` · `HTML` · `CSS` · `Bootstrap` · `MongoDB` · `Git` · `Python` · `Java` · `C`
+<div align="center">
 
-<!-- ===== Blog / Medium ===== -->
-## ✍️ Blog & Writing
-- I maintain a simple blog workflow — posts (and links) appear here automatically if you enable the blog action.
-- **Latest Medium posts** (if you use Medium):  
-  ![Medium](https://github-readme-medium.vercel.app/feed?username=YOUR_MEDIUM_USERNAME)
+I design clean, modern, aesthetic front-ends and build full-stack applications  
+with a passion for smooth user experiences & minimal UI.
 
-> If you want Medium posts to show, I'll give the exact step to hook your Medium username or we can use the blog workflow to show posts from your repo.
+</div>
 
-<!-- ===== Quotes ===== -->
-## 🧭 Quote of the Day
-![Quotes](https://github-readme-quotes.vercel.app/api?type=title&author=BhagathK7)
-
-<!-- ===== Footer / Contact ===== -->
 ---
 
-### 📫 Connect
-- GitHub: [BhagathK7](https://github.com/BhagathK7)
-- Email: `bhagathkrishnpsemail@example.com` ← replace with your real email if you want it shown
+<br/>
 
+## 🌤️ **Tech Stack**
+<div align="center">
+
+<!-- ICON STYLE: Soft, minimal, neutral -->
+<img src="https://cdn.simpleicons.org/html5/4B5563" width="40" /> &nbsp;
+<img src="https://cdn.simpleicons.org/css3/4B5563" width="40" /> &nbsp;
+<img src="https://cdn.simpleicons.org/javascript/4B5563" width="40" /> &nbsp;
+<img src="https://cdn.simpleicons.org/react/4B5563" width="40" /> &nbsp;
+<img src="https://cdn.simpleicons.org/node.js/4B5563" width="40" /> &nbsp;
+<img src="https://cdn.simpleicons.org/express/4B5563" width="40" /> &nbsp;
+<img src="https://cdn.simpleicons.org/mongodb/4B5563" width="40" /> &nbsp;
+<img src="https://cdn.simpleicons.org/git/4B5563" width="40" /> &nbsp;
+<img src="https://cdn.simpleicons.org/python/4B5563" width="40" /> &nbsp;
+<img src="https://cdn.simpleicons.org/java/4B5563" width="40" /> &nbsp;
+<img src="https://cdn.simpleicons.org/c/4B5563" width="40" />
+
+</div>
+
+---
+
+<br/>
+
+## 📊 **My GitHub Stats**
+<div align="center">
+
+<!-- CLEAN WHITE THEME STATS -->
+<img height="170" src="https://streak-stats.demolab.com?user=BhagathK7&theme=default&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BhagathK7&show_icons=true&hide_title=true&hide_border=true&theme=default" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagathK7&layout=compact&hide_border=true&theme=default" />
+
+</div>
+
+---
+
+<br/>
+
+## ☁️ **What I Love Working On**
+- Clean, aesthetic frontend interfaces  
+- Smooth UI/UX experiences  
+- React + modern JS  
+- Full-stack projects (MERN)  
+- Bringing design + code together  
+
+---
+
+<br/>
+
+## 🌱 **Current Goals**
+- Strengthening frontend animations & micro-interactions  
+- Building more refined, production-ready UI  
+- Expanding full-stack capabilities  
+
+---
+
+<br/>
+
+## 📫 **Connect with Me**
+<div align="center">
+
+<a href="https://github.com/BhagathK7"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
+&nbsp;&nbsp;
+<a href="mailto:bhagathkrishnps@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+  
+✨ *Designed to be simple, soft, cloud-like, and distraction-free.*  
+</div>
