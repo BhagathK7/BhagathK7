@@ -71,7 +71,3 @@
 </div>
 
 <br/>
-
-<div align="center" style="color:#98a3ad; font-size:13px; margin-bottom:18px;">
-  Designed to be minimal, calm and professional.
-</div>
