@@ -22,15 +22,18 @@
 </div>
 
 ---
-
 ## GitHub activity
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BhagathK7&show_icons=true&hide_border=true&theme=transparent"/>
+<!-- Awesome GitHub Stats Card -->
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/BhagathK7?cardType=github&theme=city-lights&font=Inter&showTotalStars=false&showPRs=false&showIssues=false&preferLogin=false" height="170" />
 
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BhagathK7&layout=compact&hide_border=true&theme=transparent"/>
+<!-- GitHub Profile Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhagathK7&theme=default" height="170" />
 
 </div>
+
+
 
 ---
 
