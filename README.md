@@ -27,8 +27,6 @@
 
 <!-- Awesome GitHub Stats Card -->
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/BhagathK7?cardType=github&theme=city-lights&font=Inter&showTotalStars=false&showPRs=false&showIssues=false&preferLogin=false" height="170" />
-
-<!-- GitHub Profile Summary Card -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhagathK7&theme=default" height="170" />
 
 </div>
