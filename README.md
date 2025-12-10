@@ -6,7 +6,7 @@
 <!-- ===== Header (optional image / REHeader output) ===== -->
 <!-- You can paste REHeader-generated HTML/SVG or an image here.
      For now we keep it minimal — name + role. -->
-<h1 align="left">Hi 👋, I'm Bhagath Krishna</h1>
+<h1 align="left">Hello, I'm Bhagath Krishna</h1>
 <p align="left"><strong>Frontend-focused full-stack developer who loves designing and crafting smooth user experiences.</strong></p>
 
 <!-- ===== Icons / Quick Info ===== -->
@@ -58,9 +58,5 @@
 
 ### 📫 Connect
 - GitHub: [BhagathK7](https://github.com/BhagathK7)
-- Email: `your.email@example.com` ← replace with your real email if you want it shown
-- Portfolio: `https://yourportfolio.com` ← optional
+- Email: `bhagathkrishnpsemail@example.com` ← replace with your real email if you want it shown
 
-<p align="center">
-  Built with ❤️ • Minimal • Designed for frontend-first devs
-</p>
