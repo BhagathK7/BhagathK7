@@ -48,15 +48,9 @@
 </p>
 
 ## GitHub activity
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center">
 
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/BhagathK7?cardType=github&theme=city-lights&font=Inter&showTotalStars=false&showPRs=false&showIssues=false&preferLogin=false" 
-       width="48%" height="170" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhagathK7&theme=default" 
-       width="48%" height="300" />
-
-</div>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhagathK7&theme=github_dark" width="100%" height="270" />
 
 
 </div>
